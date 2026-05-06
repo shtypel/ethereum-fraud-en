@@ -126,9 +126,14 @@ The models were evaluated using:
 
 Random Forest was selected as the best overall model due to its strong balance between fraud detection capability (recall) and false positive control (precision).
 
-## Model Comparison Table
+## Model Performance Comparison Table
 
-![Model Comparison](./images/model_comparison.png)
+| Model | Accuracy | Precision | Recall | F1-score | ROC-AUC |
+|---|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.867 | 0.642 | 0.907 | 0.752 | 0.946 |
+| Decision Tree | 0.925 | 0.888 | 0.760 | 0.819 | 0.942 |
+| **Random Forest** | **0.959** | **0.916** | **0.898** | **0.907** | **0.989** |
+| Gradient Boosting | 0.963 | 0.955 | 0.876 | 0.914 | 0.989 |
 
 ---
 
