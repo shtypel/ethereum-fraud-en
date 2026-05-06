@@ -180,7 +180,7 @@ Final risk-scored dataset:
 
 ---
 
-# Technologies Used
+# Tools & Libraries
 
 - Python
 - pandas
