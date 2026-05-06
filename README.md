@@ -64,7 +64,6 @@ ethereum-wallet-fraud-detection/
 │   └── ethereum_wallet_fraud_modeling.ipynb
 │
 ├── images/
-│   ├── model_comparison.png
 │   ├── rf_feature_importance.png
 │   └── risk_distribution.png
 │
