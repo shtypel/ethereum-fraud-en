@@ -151,7 +151,7 @@ The most influential features were primarily associated with:
 ## Random Forest Feature Importance
 
 <p align="center">
-  <img src="./images/rf_feature_importance.png" width="450">
+  <img src="./images/rf_feature_importance.png" width="650">
 </p>
 
 ---
