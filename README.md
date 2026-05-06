@@ -167,7 +167,10 @@ Wallets were categorised into:
 
 This enables prioritisation of high-risk entities for investigation and risk-based monitoring.
 
-![Risk Scores Distribution](./images/risk_distribution.png)
+Risk Scores Distribution
+<p align="center">
+  <img src="./images/risk_distribution.png" width="650">
+</p>
 
 Final risk-scored dataset:
 
